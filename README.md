@@ -6,6 +6,7 @@ jedi moi
 >fhssfhs
 
 -----
+![¯½__FWm](https://user-images.githubusercontent.com/75864533/223524264-04f310df-8660-4c50-8630-d7e6a383d706.png)
 
 -----
 ______
@@ -49,7 +50,8 @@ Découvrez les bienfaits
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Interests</a></li>
                     <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Awards</a></li>
-                </ul>
+                </ul>![¯½__FWm](https://user-images.githubusercontent.com/75864533/223524264-04f310df-8660-4c50-8630-d7e6a383d706.png)
+
             </div>
         </nav>
         <!-- Page Content-->
