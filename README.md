@@ -62,7 +62,7 @@ Découvrez les bienfaits
                         <span class="text-primary">FELICIA</span>
                     </h1>
                     <div class="subheading mb-5">
-                        3542 Berry Street · Cheyenne Wells, CO 80810 · (317) 585-8468 ·
+                        3542 Berry Street · Martinique, CO 80810 · (317) 585-8468 ·
                         <a href="mailto:name@email.com">name@email.com</a>
                     </div>
                     <p class="lead mb-5">I am experienced in leveraging agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition.</p>
